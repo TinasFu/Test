@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Shiquan Fu. All rights reserved.
 //
 
-// sam was here
+// Quan was here
 
 import UIKit
 
